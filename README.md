@@ -19,4 +19,3 @@ Deposit money into the account by verifying with your registered number.
 Withdraw money from the account by verifying the pin.
 Check the balance of the account by verifying with your registered number.
 Test the endpoints.
-Link to the postman collection via API:https://api.postman.com/collections/16673607-ea8650e4-f453-4e94-aa04-140714792c99?access_key=PMAT-01HQJDMQHFXRKJVW87HA3DZBXX
